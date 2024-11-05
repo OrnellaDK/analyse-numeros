@@ -1,0 +1,16 @@
+John Doe:01 23 45 67 89
+Jane Smith:+33 6 58 47 25 14
+Bob Martin:0033 2 456 789 25
+Alice Brown:(0033) 1 23 45 67 89
+Charlie Johnson:0123456789
+David Wilson:+33123456789
+Eve Davis:01-23-45-67-89
+Frank Miller:33 5 89 74 12 22
+Grace Lee:06 45 12 78
+Hannah Clark:+33 4 12 34 56 78
+Isaac Hall:01 23 (456) 789
+Liam Young:+(33) 7 12 34 56 78
+Mia King:012345678
+Nola Baker:+033 1 56 74 89 65
+Oliver Scott:0033123456789
+Sophia Adams:01-23456789
